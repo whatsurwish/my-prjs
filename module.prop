@@ -4,4 +4,4 @@ version=v1.2
 versionCode=12
 author=Shadow
 description=Official fix mic v1 only by shadow be aware please
-updateJson=https://raw.githubusercontent.com/updater.json
+updateJson=https://raw.githubusercontent.com/whatsurwish/my-prjs/refs/heads/main/update.json
